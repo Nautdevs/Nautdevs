@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nautdevs or you can just call me Calvin!
 - 👀 I’m interested in Data Science, Finance, Photography, Videography, Real Estate, and Psychology
-- 🌱 I’m currently learning Python, SQL, Finance/Accounting @ Uni, and Web Development
-- 📫 You can reach me through sending an email to calvin@curiouscali.com or checkout my website www.curiouscali.com 
-- 🌅 What gets me up in the morning is my deep desire to positively impact the world through my work
+- 🌱 I’m currently learning Python, SQL, and Finance/Accounting at North Dakota State University.
+- 📫 You can reach me by sending an email to jamesandercal@gmail.com
+- 🌅 What gets me up in the morning is my love for exploration
 
-- 👨‍💻 My latest project is on derivatives valuation
+- 👨‍💻 My latest project is on derivatives valuation which I am working on for my ECON411 course
 
 <!---
 Nautdevs/Nautdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
